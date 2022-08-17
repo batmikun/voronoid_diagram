@@ -6,3 +6,7 @@
 
 -  ```console
         $ odin run .
+        
+ # Examples
+ 
+ ![image](https://user-images.githubusercontent.com/47833971/185199339-618c64df-656c-476e-8e79-4c9fd7974b25.png)
